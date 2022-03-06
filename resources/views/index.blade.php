@@ -1,3 +1,9 @@
+<!--Template Name: vacayhome
+File Name: home.html
+Author Name: ThemeVault
+Author URI: http://www.themevault.net/
+License URI: http://www.themevault.net/license/-->
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -51,7 +57,7 @@
                         <div class="row">
                             <div class="col-md-2 col-sm-6 col-xs-6">
                                 <div id="logo">
-                                    <!--<a href="index"><img src="images/logo.png" alt="logo"></a>-->
+                                    <!--<a href="index.html"><img src="images/logo.png" alt="logo"></a>-->
                                     <a href="index"><span>vacay</span>home</a>
                                 </div>
                             </div>
