@@ -17,7 +17,7 @@ Route::get('/', function () {
     return view('index');
 })->name('home');
 
-Route::get('/index', function () {
+Route::get('index', function () {
     return view('index');
 })->name('home');
 
@@ -27,7 +27,7 @@ Route::get('about', function () {
 
 Route::get('rooms', function () {
     return view('rooms');
-})->name('roomas');;
+})->name('rooms');;
 
 Route::get('gallery', function () {
     return view('gallery');
@@ -44,4 +44,3 @@ Route::get('news', function () {
 Route::get('contact', function () {
     return view('contact');
 })->name('contact');;
-

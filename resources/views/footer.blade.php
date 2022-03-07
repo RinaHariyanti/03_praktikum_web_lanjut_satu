@@ -37,14 +37,14 @@
             <div class="col-md-3 col-sm-6 col-xs-12 width-50 width-set-50">
                 <div class="footer-details">
                     <h4>explore</h4>
-                    <ul class="list-unstyled footer-links">
-                        <li class="active"><a>Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="rooms.html">Rooms</a></li>
-                        <li><a href="gallery.html">Gallery</a></li>
-                        <li><a href="#">Dinning</a></li>
-                        <li> <a href="news.html">News</a></li>
-                        <li> <a href="contact.html">Contact</a></li>
+                        <ul class="list-unstyled footer-links">
+                            <li><a href="index">Home</a></li>
+                            <li><a href="about">About</a></li>
+                            <li><a href="rooms">Rooms</a></li>
+                            <li><a href="gallery">Gallery</a></li>
+                            <li><a href="#">Dinning</a></li>
+                            <li> <a href="news">News</a></li>
+                            <li> <a href="contact">Contact</a></li>
                     </ul>
                 </div>
             </div>
@@ -72,3 +72,4 @@
     <span><i aria-hidden="true" class="fa fa-angle-up fa-lg"></i></span>
     <span>Top</span>
 </a>
+
