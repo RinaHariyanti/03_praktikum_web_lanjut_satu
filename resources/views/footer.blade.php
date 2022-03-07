@@ -42,7 +42,7 @@
                             <li><a href="about">About</a></li>
                             <li><a href="rooms">Rooms</a></li>
                             <li><a href="gallery">Gallery</a></li>
-                            <li><a href="#">Dinning</a></li>
+                            <li><a href="dinning">Dinning</a></li>
                             <li> <a href="news">News</a></li>
                             <li> <a href="contact">Contact</a></li>
                     </ul>
